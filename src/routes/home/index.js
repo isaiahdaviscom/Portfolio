@@ -25,8 +25,24 @@ const Home = () => {
   }, []);
   console.log(Projects);
   return (
-    <div class="home">
-      <Slides data={Projects.projects}></Slides>
+    <div className={style.home}>
+      <div className={style.module}>
+        <h1 className={style.title}>Coming Soon</h1>
+        <ul className={style.social}>
+          <li>
+            <a href="https://www.linkedin.com/in/isaiahdavis/">Linkedin</a>
+          </li>
+          <li>
+            <a href="https://github.com/isaiahdaviscom">Github</a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/file/d/1rH7Eucq0iVyIELQjll8vozXqsrV45okn/view?usp=sharing">
+              Resume
+            </a>
+          </li>
+        </ul>
+      </div>
+      {/* <Slides data={Projects.projects}></Slides> */}
     </div>
   );
 };

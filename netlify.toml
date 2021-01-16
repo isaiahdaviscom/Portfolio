@@ -1,3 +1,5 @@
+[dev]
+  command = "yarn start:development"
 [build]
   command = "yarn build"
   publish = "build"
