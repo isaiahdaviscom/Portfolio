@@ -28,7 +28,7 @@ const Home = () => {
     <div className={style.home}>
       <div style={{textAlign:"center"}} className={style.module}>
         <h1 className={style.title}>Coming Soon</h1>
-        <img src="assets/profile-branded.png" />
+        <img src="assets/profile-branded.png" alt="Avatar" />
         <h4>Visual Designer <span style={{color: "#aaaaaa"}}>&amp;</span> Front-end Developer</h4>
         <div className={style.social} style={{display:"flex"}}> 
           <a href="https://www.linkedin.com/in/isaiahdavis/">

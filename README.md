@@ -1,5 +1,33 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99750cdd-0aed-41a0-91f0-2a770a614e53/deploy-status)](https://app.netlify.com/sites/isaiahdavis/deploys)
-# blog
+
+
+# Overview
+This is my portfolio github repository.
+
+# Built Using:
+* GitHub
+* NetlifyCMS
+* React JS
+
+# Coding Languages:
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+* HTML5
+* CSS3
+* Javascript
+
+# Design Software(s):
+* Adobe XD
+* Adobe Illustrator
+* Adobe Photoshop
+
+# Projects Navigation:
+* [Disney+](https://github.com/isaiahdaviscom/Disney) - A replication of the Disney+ streaming platform
+* [HubSpot](https://github.com/isaiahdaviscom/HubSpot) - Open-source components and themes designed
+* [Google](https://github.com/isaiahdaviscom/Google) - Open-source components and themes designed
+* [Adobe](https://github.com/isaiahdaviscom/Adobe) - Open-source components and themes designed
+* [Smartsheet](https://github.com/isaiahdaviscom/Smartsheet) - Open-source components and themes designed
+* [CodeSandbox](https://github.com/isaiahdaviscom/CodeSandbox) - My learning environment
 
 ## CLI Commands
 
