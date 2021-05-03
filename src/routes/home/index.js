@@ -48,7 +48,7 @@ const Home = () => {
             <p><small>R&eacute;sum&eacute;</small></p>
           </a>
         </div>
-        <div>
+        <div style={{display:"none"}}>
           <h3>Projects</h3>
           <div style={{display: "flex"}}>
             <div>image</div> 
