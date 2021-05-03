@@ -48,6 +48,13 @@ const Home = () => {
             <p><small>R&eacute;sum&eacute;</small></p>
           </a>
         </div>
+        <div>
+          <h3>Projects</h3>
+          <div style={{display: "flex"}}>
+            <div>image</div> 
+            <div>title</div> 
+          </div>
+        </div>
       </div>
       {/* <Slides data={Projects.projects}></Slides> */}
     </div>
