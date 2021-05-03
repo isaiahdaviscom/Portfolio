@@ -37,6 +37,10 @@ a {
   color: #333;
 }
 
+p {
+  font-size: 14px;
+}
+
 .loading {
   animation-duration: 1s;
   animation-fill-mode: forwards;

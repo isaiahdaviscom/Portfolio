@@ -17,13 +17,26 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-ul.social {
-  padding: 0;
+
+.social {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
-ul.social li {
-  display: inline-block;
-  width: 33.3333%;
-  text-align: center;
+
+.social a {
+  display: block;
+  flex: 1 1 auto;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.social a:hover {
+  background: #f2e936;
 }
 
 @media all and (max-width: 728px) {
