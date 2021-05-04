@@ -1,6 +1,7 @@
 {
   "name": "Isaiah Davis - Portfolio",
   "short_name": "isaiah davis",
+  "description": "My portfolio website",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

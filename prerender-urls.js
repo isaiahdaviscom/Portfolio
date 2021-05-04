@@ -9,7 +9,10 @@ module.exports = () => {
 		{
 			url: '/',
 			seo: {
-				cover: '/assets/profile.jpg'
+				cover: '/assets/profile.jpg',
+				title: 'My Portfolio',
+				subtitle: 'Welcome to my portfolio website',
+				robots: 'index, follow'
 			}
 		},
 		{ url: '/contact/' },

@@ -28,7 +28,7 @@ const Home = () => {
     <div className={style.home}>
       <div style={{textAlign:"center"}} className={style.module}>
         <h1 className={style.title}>Coming Soon</h1>
-        <img src="assets/profile-branded.png" alt="Avatar" />
+        <img style={{width:"144px"}} src="assets/profile-branded.png" alt="Avatar" />
         <h4>Visual Designer <span style={{color: "#aaaaaa"}}>&amp;</span> Front-end Developer</h4>
         <div className={style.social} style={{display:"flex"}}> 
           <a href="https://www.linkedin.com/in/isaiahdavis/">
@@ -43,7 +43,7 @@ const Home = () => {
             <img style={{height:"36px"}} src="assets/vendors/fontawesome/behance-square-brands.svg" alt="My Adobe Behance profile" />
             <p><small>Behance</small></p>
           </a>
-          <a href="https://drive.google.com/file/d/1rH7Eucq0iVyIELQjll8vozXqs rV45okn/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1S7ECDIgC9sbxiVAXiDCN8XdaxfYVfkFO/view?usp=sharing">
             <img style={{height:"36px"}} src="assets/vendors/fontawesome/file-word-regular.svg" alt="My Résumé" />
             <p><small>R&eacute;sum&eacute;</small></p>
           </a>
