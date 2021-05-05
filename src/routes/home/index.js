@@ -37,7 +37,7 @@ const Home = () => {
           </a>
           <a href="https://github.com/isaiahdaviscom">
             <img style={{height:"36px"}} src="assets/vendors/fontawesome/github-square-brands.svg" alt="My GitHub profile" />
-            <p><small>Github</small></p>
+            <p><small style={{}}>Github</small></p>
           </a>
           <a href="https://www.behance.net/isaiahdavism">
             <img style={{height:"36px"}} src="assets/vendors/fontawesome/behance-square-brands.svg" alt="My Adobe Behance profile" />
